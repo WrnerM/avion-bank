@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avion-bank/static/css/main.073c9b0a.css",
+    "main.js": "/avion-bank/static/js/main.ccef8bf2.js",
+    "static/js/787.8ae9e260.chunk.js": "/avion-bank/static/js/787.8ae9e260.chunk.js",
+    "static/media/logo.svg": "/avion-bank/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/avion-bank/index.html",
+    "main.073c9b0a.css.map": "/avion-bank/static/css/main.073c9b0a.css.map",
+    "main.ccef8bf2.js.map": "/avion-bank/static/js/main.ccef8bf2.js.map",
+    "787.8ae9e260.chunk.js.map": "/avion-bank/static/js/787.8ae9e260.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccef8bf2.js"
+  ]
+}
